@@ -1,6 +1,7 @@
 # jpa03-dagingregory
 
 Running at: <https://jpa03-dagingregory.dokku-05.cs.ucsb.edu>
+
 GitHub Pages: <https://ucsb-cs156-f23.github.io/jpa03-Dagin-Gregory/>
 
 # Configuring GitHub Pages for the documentation
